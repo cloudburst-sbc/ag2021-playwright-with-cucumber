@@ -1,0 +1,16 @@
+{
+  "name": "ag2021",
+  "version": "1.0.0",
+  "description": "Automation Guild 2021 Presentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js --exit"
+  },
+  "author": "sonja.leaf@cloudburststudio.com",
+  "license": "MIT",
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.0.0",
+    "faker": "^5.1.0",
+    "playwright": "^1.7.1"
+  }
+}
