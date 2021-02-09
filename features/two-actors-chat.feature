@@ -1,4 +1,4 @@
-# From the 2021 Autmoation Guild session:
+# From the 2021 Autmation Guild session:
 #   Set the stage with Playwright and CucumberJS
 
 Feature: Two actors can chat on the app
